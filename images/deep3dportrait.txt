@@ -1,0 +1,6 @@
+@inproceedings{xu2020deep,
+  author = {Xu, Sicheng and Yang, Jiaolong and Chen, Dong and Wen, Fang and Deng, Yu and Jia, Yunde and Xin, Tong},
+  title = {Deep 3D Portrait from a Single Image},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2020}
+}

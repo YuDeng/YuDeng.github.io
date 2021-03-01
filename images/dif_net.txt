@@ -1,0 +1,6 @@
+@article{deng2020deformed,
+  author = {Deng, Yu and Yang, Jiaolong and Xin, Tong},
+  title = {Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence},
+  journal = {arXiv preprint arXiv:2011.13650},
+  year = {2020}
+}

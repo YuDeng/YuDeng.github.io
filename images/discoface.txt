@@ -1,0 +1,6 @@
+@inproceedings{deng2020disentangled,
+  author = {Deng, Yu and Yang, Jiaolong and Chen, Dong and Wen, Fang and Xin, Tong},
+  title = {Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2020}
+}

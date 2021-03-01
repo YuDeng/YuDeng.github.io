@@ -1,0 +1,6 @@
+@inproceedings{deng2019accurate,
+  author = {Deng, Yu and Yang, Jiaolong and Xu, Sicheng and Chen, Dong and Jia, Yunde and Tong, Xin},
+  title = {Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set},
+  booktitle = {Proceedings of IEEE Computer Vision and Pattern Recognition Workshop on Analysis and Modeling of Faces and Gestures},
+  year = {2019}
+}
