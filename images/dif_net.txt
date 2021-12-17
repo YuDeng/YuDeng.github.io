@@ -1,6 +1,6 @@
-@article{deng2020deformed,
+@inproceedings{deng2021deformed,
   author = {Deng, Yu and Yang, Jiaolong and Xin, Tong},
   title = {Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence},
-  journal = {arXiv preprint arXiv:2011.13650},
-  year = {2020}
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2021}
 }
