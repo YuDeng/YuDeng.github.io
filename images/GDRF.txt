@@ -1,0 +1,6 @@
+@inproceedings{wang2022generative,
+  author = {Wang, Ziyu and Deng, Yu and Yang, Jiaolong and Yu, Jingyi and Tong, Xin},
+  title = {Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects},
+  booktitle = {Pacific Graphics},
+  year = {2022}
+}
