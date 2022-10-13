@@ -1,0 +1,6 @@
+@article{wu2022anifacegan,
+  author = {Wu, Yue and Deng, Yu and Yang, Jiaolong and Wei, Fangyun and Chen, Qifeng and Tong, Xin},
+  title = {AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars},
+  journal= {Advances in Neural Information Processing System},
+  year = {2022}
+}
