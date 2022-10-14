@@ -129,3 +129,8 @@
   span.highlight {
     background-color: #ffffd0;
   }
+
+.underline {
+    color: black;
+    text-decoration: underline; 
+}
