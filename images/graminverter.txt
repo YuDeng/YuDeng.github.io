@@ -1,0 +1,6 @@
+@article{deng2022learning,
+    title={Learning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image},
+    author={Deng, Yu and Wang, Baoyuan and Shum, Heung-Yeung},
+    journal={arXiv preprint arXiv:2211.13901},
+    year={2022}
+}
